@@ -1,0 +1,57 @@
+﻿{
+  "TypesOfRices": [
+    {
+      "name": "Basmati Rice",
+      "weight": 2,
+      "price": 120
+    },
+    {
+      "name": "Brown Rice",
+      "weight": 4,
+      "price": 110
+
+    },
+    {
+      "name": "Jasmine Rice",
+      "weight": 3,
+      "price": 120
+    }
+  ],
+
+  "TypesOfWheats": [
+    {
+      "name": "Hard Red Winter",
+      "weight": 3,
+      "price": 100
+    },
+    {
+      "name": "Head Red Spring",
+      "weight": 5,
+      "price": 120
+
+    },
+    {
+      "name": "flours",
+      "weight": 2,
+      "price": 120
+    }
+  ],
+  "TypesOfPulses": [
+    {
+      "name": "Beans",
+      "weight": 4,
+      "price": 110
+    },
+    {
+      "name": "peas",
+      "weight": 3,
+      "price": 120
+
+    },
+    {
+      "name": "bengal gram",
+      "weight": 5,
+      "price": 150
+    }
+  ]
+}
