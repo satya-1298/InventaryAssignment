@@ -1,0 +1,19 @@
+﻿{
+  "StockReport": [
+    {
+      "name": "Tata",
+      "Stocks": 5,
+      "Price": 2000
+    },
+    {
+      "name": "Infosys",
+      "Stocks": 10,
+      "Price": 3000
+    },
+    {
+      "name": "Reliance",
+      "Stocks": 15,
+      "Price": 4000
+    }
+  ]
+}
